@@ -1,9 +1,5 @@
 # DigiSamuday
 A Society &amp; Management System based on Django and React
-
-
-DigiSamuday
-
 Designed and Developed by 
 Suhail Khan
 Enrolment Number: 2352838518
@@ -48,8 +44,8 @@ Prerequisites
 Backend Setup
 
     Clone the repository:
-    git clone https://github.com/your-repo/digisamuday.git
-    cd digisamuday/backend
+    git clone https://github.com/Fiery-sama/DigiSamuday.git
+    cd DigiSamuday/digi_samuday
 
     Create a virtual environment and activate it:
     python -m venv venv
@@ -69,7 +65,7 @@ Backend Setup
 Frontend Setup
 
     Navigate to the frontend directory:
-    cd ../frontend
+    cd ../digisamuday-frontend
 
     Install dependencies:
     npm install
@@ -86,6 +82,7 @@ Usage
 Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
 License
 
 This project is licensed under the MIT License.
