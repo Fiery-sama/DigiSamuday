@@ -1,13 +1,9 @@
 # DigiSamuday
-A Society &amp; Management System based on Django and React
-Designed and Developed by 
-Suhail Khan
-Enrolment Number: 2352838518
-MCSP 232 [MCA_NEW PROJECT]
-Under guidance of 
-Dr. Faiyaz Ahmad
-Assistant Professor
-Dept. of Computer Engineering
+A Society Management System based on Django and React
+-> Designed and Developed by Suhail Khan
+   --> Enrolment Number: 2352838518
+   --> MCSP 232 [MCA_NEW PROJECT]
+   --> Under guidance of Dr. Faiyaz Ahmad (Assistant Professor, Dept. of Computer Engineering)
 
 DigiSamuday is a comprehensive Society & Apartment Management Application designed to streamline community operations, enhance security, and improve communication among residents and management.
 Features
